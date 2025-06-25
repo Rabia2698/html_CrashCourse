@@ -23,3 +23,13 @@ Framework = libarary use to make the process of web deveoplemetn easy
 Famous *Framework* use REACT, ANGULAR, VUE
 
 Version control system = Git
+
+URL = Uniform Resource Location ex: https://github.com/Rabia2698/html_CrashCourse
+- It just a way to locate resource
+- Ex of resource: web pages (HTML document), image, video files
+- When client click URL, server will give response
+
+http = HypertextTransfer Protocol
+
+DOM = document object model
+- this represent all the object and element in the html document
